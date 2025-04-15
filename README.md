@@ -8,7 +8,7 @@
 
 ## 🌟 Demo Avatar: Meet JOY
 
-![JOY Avatar Drawing](joy_avatar_drawing.jpg)
+![JOY Avatar Drawing](joy_avatar_drawing.png)
 
 ---
 
