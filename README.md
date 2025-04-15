@@ -64,22 +64,41 @@ All the code for this chatbot — frontend, backend, and data processing — is 
 
 Follow these steps to get JOY running:
 
----
 
-### 1️⃣ Open in Google Colab
 
-Upload or open the notebook in [Google Colab](https://colab.research.google.com) and run the cells one by one.
+### 🚀 Getting Started in Google Colab
 
----
+1. Open the notebook in [Google Colab](https://colab.research.google.com) and run the cells one by one.  
+2. Install required Python packages by running:
 
-### 2️⃣ Install Required Libraries
+   ```python
+   !pip install langchain_groq streamlit pyngrok chromadb pypdf sentence_transformers langchain_community
+3. Set up ngrok to make your Streamlit app public:
 
-In the first cell, install the necessary Python packages:
+   - Create a free ngrok account 👉 https://dashboard.ngrok.com/get-started/setup
 
-```python
-!pip install langchain_groq streamlit pyngrok chromadb pypdf sentence_transformers langchain_community
+   - Copy your auth token from the ngrok dashboard.
+  
+4. Run the chatbot app and get your public link. Once the URL appears in the output, open it in your browser and start chatting with JOY 💬
 
----
+## 🖼️ UI Preview
+JOY’s interface includes:
+
+- 🎬 Animated headers (fade-in title)
+
+- 🧘‍♀️ Calming fonts and layout
+
+- 💬 Chat and input bar
+
+- 🖼️ Avatar always visible for warmth and connection
+
+🛑 Disclaimer:
+JOY is not a licensed mental health professional.
+This chatbot is intended for support and education, not diagnosis or treatment.
+If you're experiencing a mental health crisis, please contact a local mental health service or helpline.
+  
+
+
 
 
 
