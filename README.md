@@ -3,7 +3,7 @@
 **JOY** is a friendly and empathetic AI chatbot designed to support mental wellness. Built with the **LLaMA 3.3 70B model**, JOY offers a beautifully styled user experience through Streamlit and uses AI to engage in emotionally aware conversations.
 
 > 💬 "Hi, I'm JOY. I'm here to listen, support, and help you reflect. Let's talk."
-
+<img src="mental_health_app_video.gif" alt="JOY Avatar Drawing" width="800"/>
 ---
 
 ## 🌟 Demo Avatar: Meet JOY
@@ -20,7 +20,7 @@ JOY’s avatar isn’t just a random illustration — it’s deeply personal.
 
 This drawing became the emotional foundation of JOY — a reminder that creativity and code can blend into care.
 
-<img src="mental_health_app_video.gif" alt="JOY Avatar Drawing" width="800"/>
+
 ---
 
 ## 🚀 Overview
