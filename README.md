@@ -8,21 +8,7 @@
 
 ## 🌟 Demo Avatar: Meet JOY
 
-<h2>🌟 Demo Avatar: Meet JOY</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="joy_avatar_drawing.png" alt="JOY Avatar Drawing" width="200"/>
-    </td>
-    <td>
-      <video width="300" controls>
-        <source src="mental_health_app_video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
+<img src="joy_avatar_drawing.png" alt="JOY Avatar Drawing" width="200"/>
 
 ---
 
