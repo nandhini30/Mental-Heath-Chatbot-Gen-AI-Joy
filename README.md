@@ -20,6 +20,7 @@ JOY’s avatar isn’t just a random illustration — it’s deeply personal.
 
 This drawing became the emotional foundation of JOY — a reminder that creativity and code can blend into care.
 
+<img src="mental_health_app_video.gif" alt="JOY Avatar Drawing" width="800"/>
 ---
 
 ## 🚀 Overview
